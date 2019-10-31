@@ -16,8 +16,8 @@ class Song
    song
   end 
   
-  def self.new_by_name #class constructor 
-    
+  def self.new_by_name(title) #class constructor 
+    song = self.new
   end
 
 end
