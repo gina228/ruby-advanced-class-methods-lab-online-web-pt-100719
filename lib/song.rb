@@ -11,6 +11,7 @@ class Song
   end
   
   def self.create #class constructor
+  song = self.new 
   
 
 end
